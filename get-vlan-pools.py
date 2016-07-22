@@ -1,5 +1,7 @@
 #!/Library/Frameworks/Python.framework/Versions/2.7/bin/python
 
+print "hello world"
+
 import json
 import requests
 
